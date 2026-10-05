@@ -1,6 +1,6 @@
 # Andrea Sofia
 
-**Web Developer** based in Rome · **agentic development with Claude Code** · WordPress, integrations, security
+**Full Stack Web Developer** based in Rome · **Agentic Engineering** with Claude Code · AI integrations
 
 I'm a web developer at [Università.it](https://www.universita.it), where I look after five Italian university
 guidance portals end to end, from code to server.
